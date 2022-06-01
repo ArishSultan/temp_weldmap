@@ -1,0 +1,229 @@
+./data/weldmap/img/processed/smp_1653813735.1156678\1.png|* SHOP MATERIALS *
+./data/weldmap/img/processed/smp_1653813735.1156678\2.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813735.1156678\3.png|1 PIPE, S-STD, BE, ASTM-A53, TYPE E, GR.B: ASTM-A53, TYPE S, 2 109.7' PAAJABBAAM
+./data/weldmap/img/processed/smp_1653813735.1156678\4.png|GR. 8 OR A106 GR. 8. ERW OR SMLS. JE GRTR THAN = 0.85
+./data/weldmap/img/processed/smp_1653813735.1156678\5.png|2	TEE, S-STD, BE, ASTM-A234-WPB, WROUGHT, ASME-B16.9 2X2 1 WTAAABBAAA
+./data/weldmap/img/processed/smp_1653813735.1156678\6.png|3	90 DEG LR ELBOW, S-STD,	BE, ASTM-A234-WPB, WROUGHT, 2 3 WAAAABBAAA
+./data/weldmap/img/processed/smp_1653813735.1156678\7.png|ASME-816.9
+./data/weldmap/img/processed/smp_1653813735.1156678\8.png|4	FLANCE, CL150, RFFE/SO, ASTM-A105, ASME B16.5 2 3 FEAABZZAAA
+./data/weldmap/img/processed/smp_1653813735.1156678\9.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813735.1156678\10.png|5 T18-2#20-0. 15-0-0-0-CS 2 10 TYPE 18
+./data/weldmap/img/processed/smp_1653813735.1156678\11.png|* FIELD MATERIALS *
+./data/weldmap/img/processed/smp_1653813735.1156678\12.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813735.1156678\13.png|6 SELF CENTERING FLAT RING GSKT, CL150, 0.125" THE GARLOCK 2 3 XCAAGZZOVO
+./data/weldmap/img/processed/smp_1653813735.1156678\14.png|BLUE-GARD 3000, ASME B16, ASME B16.5
+./data/weldmap/img/processed/smp_1653813735.1156678\15.png|7 ALLOY CONT THD FLUOROCARBON CTD STUDS: ASTM A193, GR, B7 5/8 12 YZZZHZZFFE
+./data/weldmap/img/processed/smp_1653813735.1156678\16.png|HVY HEC,FLUDROCARBON CTD NUTS: ASTM A194, GR.
+./data/weldmap/img/processed/smp_1653813735.1156678\17.png|2H.MONSANTO STD P34101, 3.25" BOLT LENGTH
+./data/weldmap/img/processed/smp_1653813735.1156678\18.png|8 SLEEVED PLUG VALUE, CS, CL150, RF SHORT PATTERN OP, 2 1 FE240-1GO
+./data/weldmap/img/processed/smp_1653813735.1156678\19.png|TAG: FE240-ECC00057
+./data/weldmap/img/processed/smp_1653813735.1156678\20.png|9 BLIND FLANCE, CL150, RFFF, ASTM-A105, ASTMB16.5 2 1 FBAABZZAAA
+./data/weldmap/img/processed/smp_1653813735.1156678\21.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813735.1156678\22.png|10 T42-2#0-0-0, 13-0-CS 2 4 TYPE 42
+./data/weldmap/img/processed/smp_1653813735.1156678\23.png|PIECE MARKS
+./data/weldmap/img/processed/smp_1653813735.1156678\24.png|MK-DC9-WC-004-01-1 MK-DC9-WC-004-01-2 MK-DC9-WC-004-01-3 MK-DC9-WC-004-01-4
+./data/weldmap/img/processed/smp_1653813741.393357\1.png|* SHOP MATERIALS*
+./data/weldmap/img/processed/smp_1653813741.393357\2.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813741.393357\3.png|1 PIPE, S-XS, PE, ASTM: A53, TYPE E GR, B, OR A53, TYPE S 3/4 4.3' PADJABCAAM
+./data/weldmap/img/processed/smp_1653813741.393357\4.png|GR. 8 OR A106 GR. 8. ERW OR SMLS. JE GRTR THAN = 0.85
+./data/weldmap/img/processed/smp_1653813741.393357\5.png|2 90 DEG ELBOW, CL3000, SWE, ASTIM-A105, ASME-B16.11 3/4 2 SLAQZZZAAA
+./data/weldmap/img/processed/smp_1653813741.393357\6.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813741.393357\7.png|3 T18-0, 75#10-0-0-0-CS-M 3/4 1 TYPE 18
+./data/weldmap/img/processed/smp_1653813741.393357\8.png|* FIELD MATERIALS *
+./data/weldmap/img/processed/smp_1653813741.393357\9.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813741.393357\10.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813741.393357\11.png|4 T500-B-0, 75#13, 19-0-2-3, 5-0 3/4 1 TYPE 500-B
+./data/weldmap/img/processed/smp_1653813741.393357\12.png|5 T42-0, 75#0-0-0-0, 13-0-CS 3/4 1 TYPE42
+./data/weldmap/img/processed/smp_1653813741.393357\13.png|PIECE MARKS
+./data/weldmap/img/processed/smp_1653813741.393357\14.png|MK-DC4-CL-001-01-1
+./data/weldmap/img/processed/smp_1653813750.1551008\1.png|* SHOP MATERIALS*
+./data/weldmap/img/processed/smp_1653813750.1551008\2.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813750.1551008\3.png|1 PIPE, S-XS, PE, ASTM: A53, TYPE E GR, B, OR A53, TYPE S 1.1/2 1.7' PADJABCAAM
+./data/weldmap/img/processed/smp_1653813750.1551008\4.png|GR. 8 OR A106 GR. 8. ERW OR SMLS. JE GRTR THAN = 0.85
+./data/weldmap/img/processed/smp_1653813750.1551008\5.png|2 90 DEG ELBOW, CL3000, SWE, ASTIM-A105, ASME-B16.11 1.1/2 1 SLAQZZZAAA
+./data/weldmap/img/processed/smp_1653813750.1551008\6.png|3	FLANCE, CL150, RFFE/SWE, ASTM-A105, ASME B16.5, SW, S-XS 1.1/2 1 FEAABZZAAA
+./data/weldmap/img/processed/smp_1653813750.1551008\7.png|BORE
+./data/weldmap/img/processed/smp_1653813750.1551008\8.png|* FIELD MATERIALS *
+./data/weldmap/img/processed/smp_1653813750.1551008\9.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813750.1551008\10.png|4 SW METALLIC GSKT:ASME B16.20.CL150.316L MET, WINDING W/FLEX 1.1/2 1 XDSAFZZODS[
+./data/weldmap/img/processed/smp_1653813750.1551008\11.png|GRAPH FILTER AND IR/CR.304SS CR, 316L INNER RING
+./data/weldmap/img/processed/smp_1653813750.1551008\12.png|5 ALLOY CONT THD FLUOROCARBON CTD STUDS: ASTM A193, GR, B7 1/2 4 YZZZHZZFFE
+./data/weldmap/img/processed/smp_1653813750.1551008\13.png|HVY HEC,FLUDROCARBON CTD NUTS: ASTM A194, GR.
+./data/weldmap/img/processed/smp_1653813750.1551008\14.png|2H.MONSANTO STD P34101, 3.25" BOLT LENGTH
+./data/weldmap/img/processed/smp_1653813750.1551008\15.png|PIECE MARKS
+./data/weldmap/img/processed/smp_1653813750.1551008\16.png|MK-DC4-CL-001-01-1
+./data/weldmap/img/processed/smp_1653813758.8181098\1.png|* SHOP MATERIALS*
+./data/weldmap/img/processed/smp_1653813758.8181098\2.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813758.8181098\3.png|1 PIPE, S-STD, BE, ASTM: A53, TYPE E, GR.B: ASTM-A53, TYPE S, 2 37.5' PADJABCAAM
+./data/weldmap/img/processed/smp_1653813758.8181098\4.png|GR. 8 OR A106 GR. 8. ERW OR SMLS. JE GRTR THAN = 0.85
+./data/weldmap/img/processed/smp_1653813758.8181098\5.png|2	90 DEG LR ELBOW, S-STD,	BE, ASTM-A234-WPB, WROUGHT, 2 6 WAAAABBAAA
+./data/weldmap/img/processed/smp_1653813758.8181098\6.png|ASME-B16.9
+./data/weldmap/img/processed/smp_1653813758.8181098\7.png|3	FLANCE, CL150, RFFE/SWE, ASTM-A105, ASME B16.5 2 2 FEAABZZAAA
+./data/weldmap/img/processed/smp_1653813758.8181098\8.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813758.8181098\9.png|4 T11-2#18-4-0-0-0-CS 2 1 TYPE 11
+./data/weldmap/img/processed/smp_1653813758.8181098\10.png|5 T11-2#20-4-0-0-0-CS-M 2 1 TYPE 11
+./data/weldmap/img/processed/smp_1653813758.8181098\11.png|* FIELD MATERIALS *
+./data/weldmap/img/processed/smp_1653813758.8181098\12.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813758.8181098\13.png|6 SW METALLIC GSKT:ASME B16.20.CL150.316L MET, WINDING W/FLEX 2 2 XDSAFZZODG
+./data/weldmap/img/processed/smp_1653813758.8181098\14.png|GRAPH FILTER AND IR/CR.304SS CR, 316L INNER RING
+./data/weldmap/img/processed/smp_1653813758.8181098\15.png|7 ALLOY CONT THD FLUOROCARBON CTD STUDS: ASTM A193, GR, B7 5/8 12 YZZZHZZFFE
+./data/weldmap/img/processed/smp_1653813758.8181098\16.png|HVY HEC,FLUDROCARBON CTD NUTS: ASTM A194, GR.
+./data/weldmap/img/processed/smp_1653813758.8181098\17.png|2H.MONSANTO STD P34101, 3.25" BOLT LENGTH
+./data/weldmap/img/processed/smp_1653813758.8181098\18.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813758.8181098\19.png|8 T500-B-2#8-0-2-7-0 2 1 TYPE-500-B
+./data/weldmap/img/processed/smp_1653813758.8181098\20.png|9 T21-2#0-0-0, 13-0 2 2 TYPE 21
+./data/weldmap/img/processed/smp_1653813758.8181098\21.png|10 T24-2#0-4-0-0, 13-0-CS 2 1 TYPE 24
+./data/weldmap/img/processed/smp_1653813758.8181098\22.png|PIECE MARKS
+./data/weldmap/img/processed/smp_1653813758.8181098\23.png|MK-DC4-SL-004-01-1 MK-DC4-SL-004-01-3 MK-DC4-SL-004-01-4 MK-DC4-SL-004-01-5
+./data/weldmap/img/processed/smp_1653813764.955638\1.png|* SHOP MATERIALS*
+./data/weldmap/img/processed/smp_1653813764.955638\2.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813764.955638\3.png|PIPE. S-STD. BE. ASTM-A53. TYPE E. GR.B: ASTM-A53. TYPE S. 2
+./data/weldmap/img/processed/smp_1653813764.955638\4.png|GR. B OR A106 GR. B. ERW OR SMLMS. JE GRTR TH
+./data/weldmap/img/processed/smp_1653813764.955638\5.png|2 ECCENTRIC REDUCER. S-STO. BE. ASTM-A234-WP8. WROUGHT. 4X2 1 WRBAABBAAA
+./data/weldmap/img/processed/smp_1653813764.955638\6.png|ASME-B16.9
+./data/weldmap/img/processed/smp_1653813764.955638\7.png|3 TEE. S-STO. BE. ASTM-A234-WPB. WROUGHT. ASME-816.9
+./data/weldmap/img/processed/smp_1653813764.955638\8.png|4 SOCKETWELD WELDING OUTLET. CL3000. BE/SWE. ASTM-A105. MSS 2X3/4 1 WOBSABQAFA
+./data/weldmap/img/processed/smp_1653813764.955638\9.png|SP-97
+./data/weldmap/img/processed/smp_1653813764.955638\10.png|5 FLATOLET. CL3000. EE/SWE. ASTM-A105 2X3/4 1 WOUSABOAF
+./data/weldmap/img/processed/smp_1653813764.955638\11.png|6 CAP,S-ST). 31. ASTM-A234-WPB. WROUGHT. ASME-B16.9 2 1 WCAAABBASA
+./data/weldmap/img/processed/smp_1653813764.955638\12.png|N PPLE. PE X MTE. S-XS. 3" LONG.ASTM: A53. TYPE E GR.B.
+./data/weldmap/img/processed/smp_1653813764.955638\13.png|OR A53. TYPE S GR. B OR A106 GR.B. ERW OR SMLS
+./data/weldmap/img/processed/smp_1653813764.955638\14.png|8 NIPPLE. PE. S-XS. 3" LONG. ASTM: A53. TYPE E GR. B. OR A53. 3/4 POCAABCAAM
+./data/weldmap/img/processed/smp_1653813764.955638\15.png|TYPE S GR. B OR A106 GR.B. ERW OR SMLS
+./data/weldmap/img/processed/smp_1653813764.955638\16.png|9 FLANGE. CL300. RFFE/BE. ASTM-A105. ASME-B16.5. WN. S-STD
+./data/weldmap/img/processed/smp_1653813764.955638\17.png|BORE
+./data/weldmap/img/processed/smp_1653813764.955638\18.png|10 FLANGE. CL150. RFFE/SD. ASTM-A105. ASME 816.5
+./data/weldmap/img/processed/smp_1653813764.955638\19.png|11 GATE VALVE. CS. CL800> SW. OS&V. WELDED BONNET. HO. TAG: 3/4
+./data/weldmap/img/processed/smp_1653813764.955638\20.png|FA233-ECCOOO57
+./data/weldmap/img/processed/smp_1653813764.955638\21.png|P PE SUPPORTS
+./data/weldmap/img/processed/smp_1653813764.955638\22.png|12 11-2#12-4-O-O-O-CS-M 2 1 TYPE 11
+./data/weldmap/img/processed/smp_1653813764.955638\23.png|* FIELD MATERIALS *
+./data/weldmap/img/processed/smp_1653813764.955638\24.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813764.955638\25.png|13 CAP. CL3000. DTE. ASTM-A105. ASME-B16.11
+./data/weldmap/img/processed/smp_1653813764.955638\26.png|14 SW METALLIC GSKT:ASME B16.20.CL300.316L MET. WINDING W/FLEX 4
+./data/weldmap/img/processed/smp_1653813764.955638\27.png|GRAPH FILLER AND IR/CR.30455 CR.316L INNER RING
+./data/weldmap/img/processed/smp_1653813764.955638\28.png|15 SW METALLIC GSKT:ASME 816.20.CL150.316L MET. WINDING W/FLEX 2 3 XDSAFZZORG
+./data/weldmap/img/processed/smp_1653813764.955638\29.png|GRAPH FILLER & CR.30455 CR
+./data/weldmap/img/processed/smp_1653813764.955638\30.png|16 ALLOY CONT THD FLUOROCARBON CRT) STUDS: ASTM 4193. GR 07 3/4
+./data/weldmap/img/processed/smp_1653813764.955638\31.png|HVY HEX.FLOUROCARBON CTD NUTS: ASTM A194. GR.
+./data/weldmap/img/processed/smp_1653813764.955638\32.png|2H.MONSANTO ST) P34101. 4.5" BOLT LENGTH
+./data/weldmap/img/processed/smp_1653813764.955638\33.png|17 ALLOY CONT TH) FLUOROCARBON CR) STUDS: ASTM A193. GR. 87 12 YZZZHZZFFE
+./data/weldmap/img/processed/smp_1653813764.955638\34.png|HVY HEX.FLUOROCARBON CTD NUTS: ASTM A194. GR.
+./data/weldmap/img/processed/smp_1653813764.955638\35.png|2H.MONSANTO ST) P34101. 3.25" BOLT LENGTH
+./data/weldmap/img/processed/smp_1653813764.955638\36.png|18 GATE VALVE. CS. CL150. RF. OS&Y. BOLTED BONNIT. HQ. TAG 2 1 FA245-1
+./data/weldmap/img/processed/smp_1653813764.955638\37.png|FA245-ICCOOO57
+./data/weldmap/img/processed/smp_1653813764.955638\38.png|INSTRUMENTS
+./data/weldmap/img/processed/smp_1653813764.955638\39.png|----------
+./data/weldmap/img/processed/smp_1653813764.955638\40.png|19 INSTRUMENT TV-6116-10 2 1 TV-6116-10
+./data/weldmap/img/processed/smp_1653813764.955638\41.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813764.955638\42.png|20 TSOO-B-2#24.5-0-2-6-0 2
+./data/weldmap/img/processed/smp_1653813764.955638\43.png|21 T21-2#0-0-0-0.13-0
+./data/weldmap/img/processed/smp_1653813764.955638\44.png|PECE MARKS
+./data/weldmap/img/processed/smp_1653813764.955638\45.png|MK-)C3-SL-004-02-1 MK-)C4-SL=004-02-2
+./data/weldmap/img/processed/smp_1653813770.6226614\1.png|* SHOP MATERIALS*
+./data/weldmap/img/processed/smp_1653813770.6226614\2.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813770.6226614\3.png|1 PIPE, S-XS, PE, ASTM: A53, TYPE E GR, B, OR A53, TYPE S 1.1/2 2.7' PADJABCAAM
+./data/weldmap/img/processed/smp_1653813770.6226614\4.png|GR. 8 OR A106 GR. 8. ERW OR SMLS. JE GRTR THAN = 0.85
+./data/weldmap/img/processed/smp_1653813770.6226614\5.png|2 CONCENTRIC SWAGE, S-STD X S-XS, BLE X PSE, ASTM-A234-WPB, 2X1,1X2 1 WSACGWBAAA
+./data/weldmap/img/processed/smp_1653813770.6226614\6.png|WRDUGHT, MSS SP-95
+./data/weldmap/img/processed/smp_1653813770.6226614\7.png|3 SPECILATY ITEM BS-118 1.1/2X3/4 1 BS-118
+./data/weldmap/img/processed/smp_1653813770.6226614\8.png|4 REDUCING BRANCH TEE, CL3000, SWE, ASTM-A105, ASME-B16.11 1.1/2X3/4 1 STBOZZZAAA
+./data/weldmap/img/processed/smp_1653813770.6226614\9.png|5 NIPPLE, PE, S-XS, 3"LONG, ASTM: A53, TYPE E GR. B, OR A53, 3/4 2 POCAABCAAM
+./data/weldmap/img/processed/smp_1653813770.6226614\10.png|TYPE S GR. B OR A106 GR. B, ERW OR SMLS
+./data/weldmap/img/processed/smp_1653813770.6226614\11.png|6 NIPPLE, PE X MTE, S-CS, 3" LONG, ASTM: A53, TYPE 3 GR. B, 3/4 2 POFAABCAAM
+./data/weldmap/img/processed/smp_1653813770.6226614\12.png|OR A53, TYPE S GR. B OR A106 GR. B, ERW OR SMLS
+./data/weldmap/img/processed/smp_1653813770.6226614\13.png|7 FLANCE, CL300, RFFE/BE, ASTM-A105, WN, S-STD 2 1 FAABBBBAAA
+./data/weldmap/img/processed/smp_1653813770.6226614\14.png|BORE
+./data/weldmap/img/processed/smp_1653813770.6226614\15.png|8 FLANCE, CL150, RFFE/SWE, ASTM-A105, ASME-B16.5, SW, S-XS 1.1/2 1 FCAABBCAAA
+./data/weldmap/img/processed/smp_1653813770.6226614\16.png|BORE
+./data/weldmap/img/processed/smp_1653813770.6226614\17.png|9 GATE VALUE, CS, CL800, SW, WELDED BONNET, HD, TAG: 1.1/2 1 FA233-8
+./data/weldmap/img/processed/smp_1653813770.6226614\18.png|FA223-ECC00057
+./data/weldmap/img/processed/smp_1653813770.6226614\19.png|10 GATE VALUES, CS, CL800, SW, DS&Y, WELDED BONNET, HD, TAG: 3/4 2 FA233-8
+./data/weldmap/img/processed/smp_1653813770.6226614\20.png|FA223-ECC00057
+./data/weldmap/img/processed/smp_1653813770.6226614\21.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813770.6226614\22.png|11 T11-1,5#8-4-0-0-0-CS-M 1.1/2 1 TYPE 11
+./data/weldmap/img/processed/smp_1653813770.6226614\23.png|* FIELD MATERIALS *
+./data/weldmap/img/processed/smp_1653813770.6226614\24.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813770.6226614\25.png|12 CAP, CL30000, FTE, ASTM-A105, ASME-B16.11 3/4 2 TCAQZZZAAA
+./data/weldmap/img/processed/smp_1653813770.6226614\26.png|13 SW METALLIC GSKT:ASME B16.20.CL150.316L MET, WINDING W/FLEX 2 1 XDSAFZZODS[
+./data/weldmap/img/processed/smp_1653813770.6226614\27.png|GRAPH FILTER AND IR/CR.304SS CR, 316L INNER RING
+./data/weldmap/img/processed/smp_1653813770.6226614\28.png|14 SW METALLIC GSKT:ASME B16.20.CL150.316L MET, WINDING W/FLEX 1.1/2 1 XDSAFZZODS[
+./data/weldmap/img/processed/smp_1653813770.6226614\29.png|GRAPH FILTER AND IR/CR.304SS CR, 316L INNER RING
+./data/weldmap/img/processed/smp_1653813770.6226614\30.png|15 ALLOY CONT THD FLUOROCARBON CTD STUDS: ASTM A193, GR, B7 5/8 8 YZZZHZZFFE
+./data/weldmap/img/processed/smp_1653813770.6226614\31.png|HVY HEC,FLUDROCARBON CTD NUTS: ASTM A194, GR.
+./data/weldmap/img/processed/smp_1653813770.6226614\32.png|2H.MONSANTO STD P34101, 3.5" BOLT LENGTH
+./data/weldmap/img/processed/smp_1653813770.6226614\33.png|16 ALLOY CONT THD FLUOROCARBON CTD STUDS: ASTM A193, GR, B7 1/2 4 YZZZHZZFFE
+./data/weldmap/img/processed/smp_1653813770.6226614\34.png|HVY HEC,FLUDROCARBON CTD NUTS: ASTM A194, GR.
+./data/weldmap/img/processed/smp_1653813770.6226614\35.png|2H.MONSANTO STD P34101, 2.75" BOLT LENGTH
+./data/weldmap/img/processed/smp_1653813770.6226614\36.png|17 SPECIALTY ITEM 8T-2 1.1/2 1 8T-2
+./data/weldmap/img/processed/smp_1653813770.6226614\37.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813770.6226614\38.png|18 T125B-1, 5#0-17-0-0-1 1.1/2 1 TYPE 1258
+./data/weldmap/img/processed/smp_1653813770.6226614\39.png|PIPE MARKS
+./data/weldmap/img/processed/smp_1653813770.6226614\40.png|MK-DC4-CL-001-01-1
+./data/weldmap/img/processed/smp_1653813776.5135021\1.png|* SHOP MATERIALS*
+./data/weldmap/img/processed/smp_1653813776.5135021\2.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813776.5135021\3.png|1 PIPE, S-XS, PE, ASTM: A53, TYPE E GR, B, OR A53, TYPE S 3/4 3.9' PADJABCAAM
+./data/weldmap/img/processed/smp_1653813776.5135021\4.png|GR. 8 OR A106 GR. 8. ERW OR SMLS. JE GRTR THAN = 0.85
+./data/weldmap/img/processed/smp_1653813776.5135021\5.png|2 SPECIALITY ITEM 8T-54 3/4X3/4 1 8T-54
+./data/weldmap/img/processed/smp_1653813776.5135021\6.png|3 90 DEG ELBOW, CL3000, SWE, ASTIM-A105, ASME-B16.11 3/4 2 SLAQZZZAAA
+./data/weldmap/img/processed/smp_1653813776.5135021\7.png|4 GATE VALUES, CS, CL800, SW, DS&Y, WELDED BONNET, HD, TAG: 3/4 1 FA233-8
+./data/weldmap/img/processed/smp_1653813776.5135021\8.png|FA233-ECC00057
+./data/weldmap/img/processed/smp_1653813776.5135021\9.png|PIECE MARKS
+./data/weldmap/img/processed/smp_1653813776.5135021\10.png|MK-DC4-CL-001-01-1
+./data/weldmap/img/processed/smp_1653813782.515296\1.png|* SHOP MATERIALS*
+./data/weldmap/img/processed/smp_1653813782.515296\2.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813782.515296\3.png|1 PIPE, S-STD, BE, ASTM-A53, TYPE E, GR.B: ASTM-A53, TYPE S, 2 119.0' PAAJABBAAM
+./data/weldmap/img/processed/smp_1653813782.515296\4.png|GR. B OR A106 GR. B. ERW OR SMLS. JE GRTR THAN = 0.85
+./data/weldmap/img/processed/smp_1653813782.515296\5.png|2 SOCKETWELD WELDING OUTLET. CL3000. BE/SWE. ASTM-A105. MSS 2X3/4 2 WOBSABOAFA 
+./data/weldmap/img/processed/smp_1653813782.515296\6.png|SP-97
+./data/weldmap/img/processed/smp_1653813782.515296\7.png|3 FLANGE. CL150. RFFE/SO. ASTM-A105. ASME B16.5 2 1 FEAABZZAAA
+./data/weldmap/img/processed/smp_1653813782.515296\8.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813782.515296\9.png|4 T11-2#18-4-0-0-0-CS 2 12 TYPE 11
+./data/weldmap/img/processed/smp_1653813782.515296\10.png|* FIELDS MATERIALS *
+./data/weldmap/img/processed/smp_1653813782.515296\11.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813782.515296\12.png|5 SW METALLIC GSKT:ASME B16.20.CL150.316L MET. WINDING W/FLEX 2 1 XDSAFZZORG
+./data/weldmap/img/processed/smp_1653813782.515296\13.png|GRAPH FILLER & CR.304SS CR
+./data/weldmap/img/processed/smp_1653813782.515296\14.png|6 ALLOY CONT THD FLUOROCARBON CTD STUDS: ASTM A193. GR B7 5/8  4 YZZZHZZFFE 
+./data/weldmap/img/processed/smp_1653813782.515296\15.png|HVY.FLUOROCARBON CTD NUTS: ASTM A194. GR.
+./data/weldmap/img/processed/smp_1653813782.515296\16.png|2H.MONOSANTO STD P34101. 3.25" BOLT LENGTH
+./data/weldmap/img/processed/smp_1653813782.515296\17.png|3 BLIND FLANGE. CL150. RFFE. ASTM-A105. ASME B16.5 2 1 FEAABZZAAA
+./data/weldmap/img/processed/smp_1653813782.515296\18.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813782.515296\19.png|8 T21-2#0-0-0-0.13-0 2 3 TYPE 21
+./data/weldmap/img/processed/smp_1653813782.515296\20.png|PIECE MARKS
+./data/weldmap/img/processed/smp_1653813782.515296\21.png|MK-DC7-CL-114-01-1 MK-DC7-CL-114-01-2 MK-DC7-CL-114-01-3
+./data/weldmap/img/processed/smp_1653813788.1937923\1.png|* SHOP MATERIALS*
+./data/weldmap/img/processed/smp_1653813788.1937923\2.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813788.1937923\3.png|1 PIPE, S-STD, BE, ASTM-A53, TYPE E, GR.B: ASTM-A53, TYPE S, 2 120.1' PAAJABBAAM
+./data/weldmap/img/processed/smp_1653813788.1937923\4.png|GR. B OR A106 GR. B. ERW OR SMLS. JE GRTR THAN = 0.85
+./data/weldmap/img/processed/smp_1653813788.1937923\5.png|2 SOCKETWELD WELDING OUTLET. CL3000. BE/SWE. ASTM-A105. MSS 2X3/4 2 WOBSABOAFA 
+./data/weldmap/img/processed/smp_1653813788.1937923\6.png|SP-97
+./data/weldmap/img/processed/smp_1653813788.1937923\7.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813788.1937923\8.png|3 T11-2#20-4-0-0-0-CS-M 2 1 TYPE 11
+./data/weldmap/img/processed/smp_1653813788.1937923\9.png|4 T11-2#18-4-0-0-0-CS 2 11 TYPE 11
+./data/weldmap/img/processed/smp_1653813788.1937923\10.png|* FIELDS MATERIALS *
+./data/weldmap/img/processed/smp_1653813788.1937923\11.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813788.1937923\12.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813788.1937923\13.png|5 T24-2#0-4-0-0.13-0-CS 2 1 TYPE 24
+./data/weldmap/img/processed/smp_1653813788.1937923\14.png|6 T21-2#0-0-0-0.13-0 2 4 TYPE 21
+./data/weldmap/img/processed/smp_1653813788.1937923\15.png|PIECE MARKS
+./data/weldmap/img/processed/smp_1653813788.1937923\16.png|MK-DC7-CL-114-02-1 MK-DC7-CL-114-02-2 MK-DC7-CL-114-02-3
+./data/weldmap/img/processed/smp_1653813793.9243605\1.png|* SHOP MATERIALS*
+./data/weldmap/img/processed/smp_1653813793.9243605\2.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813793.9243605\3.png|1 PIPE, S-STD, BE, ASTM-A53, TYPE E, GR.B: ASTM-A53, TYPE S, 2 108.4' PAAJABBAAM
+./data/weldmap/img/processed/smp_1653813793.9243605\4.png|GR. B OR A106 GR. B. ERW OR SMLS. JE GRTR THAN = 0.85
+./data/weldmap/img/processed/smp_1653813793.9243605\5.png|2 90 DEG LR ELBOW. S-STD. BE. ASTM-A234-WPB. WROUGHT. 2 5 WAAAABBAAA
+./data/weldmap/img/processed/smp_1653813793.9243605\6.png|ASME-B16.9
+./data/weldmap/img/processed/smp_1653813793.9243605\7.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813793.9243605\8.png|3 T11-2#18-4-0-0-0-CS 2 7 TYPE 11
+./data/weldmap/img/processed/smp_1653813793.9243605\9.png|* FIELDS MATERIALS *
+./data/weldmap/img/processed/smp_1653813793.9243605\10.png|NO. DESCRIPTION SIZE QTY. COMMODITY
+./data/weldmap/img/processed/smp_1653813793.9243605\11.png|PIPE SUPPORTS
+./data/weldmap/img/processed/smp_1653813793.9243605\12.png|4 T21-2#0-0-0-0-0.13-0 2 2 TYPE 21
+./data/weldmap/img/processed/smp_1653813793.9243605\13.png|5 T500-B-2#17.81-0-2-4.19-0 2 1 TYPE 500-B
+./data/weldmap/img/processed/smp_1653813793.9243605\14.png|6 T21-2#0-0-0-0-0.25-0-M 2 1 TYPE 21
+./data/weldmap/img/processed/smp_1653813793.9243605\15.png|7 T500-B-2#17.81-0-2-6-0 2 1 TYPE 500-B
+./data/weldmap/img/processed/smp_1653813793.9243605\16.png|8 T50-2#0-0-0-0-0--0.25-CS 2 1 TYPE 50
+./data/weldmap/img/processed/smp_1653813793.9243605\17.png|9 T42-2#0-0-0-0.13-0-CS 2 1 TYPE 42
+./data/weldmap/img/processed/smp_1653813793.9243605\18.png|10 T511-2#18-22-0-0-0 2 1 TYPE 511
+./data/weldmap/img/processed/smp_1653813793.9243605\19.png|PIECE MARKS
+./data/weldmap/img/processed/smp_1653813793.9243605\20.png|MK-DC7-CL-114-03-1 MK-DC7-CL-114-03-2 MK-DC7-CL-114-03-3 MK-DC7-CL-114-03-4
